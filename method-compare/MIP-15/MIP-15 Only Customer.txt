@@ -1,0 +1,22 @@
+Result
+Root node processing (before b&c):
+  Real time             =    0.36 sec. (15.81 ticks)
+Parallel b&c, 8 threads:
+  Real time             =   59.67 sec. (16495.24 ticks)
+  Sync time (average)   =    4.02 sec.
+  Wait time (average)   =    0.14 sec.
+                          ------------
+Total (root+branch&cut) =   60.03 sec. (16511.04 ticks)
+
+Rute
+[[(0, 9), (9, 3), (3, 8), (8, 4), (4, 1), (1, 2), (2, 0)],
+ [(0, 10), (10, 0)],
+ [(0, 12),
+  (12, 5),
+  (5, 15),
+  (15, 14),
+  (14, 7),
+  (7, 13),
+  (13, 6),
+  (6, 11),
+  (11, 0)]]
