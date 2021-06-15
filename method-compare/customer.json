@@ -131,43 +131,43 @@
 	},
 	{
 		"name":"Customer 27",
-		"latitude":-6.23495333569224,
-		"longitude":106.65248840569004
+		"latitude":-6.3034213056160695,
+		"longitude":106.6467502036053
 	},
 	{
 		"name":"Customer 28",
-		"latitude":-6.236531807996271,
-		"longitude":106.65666835864724
+		"latitude":-6.297451578696797,
+		"longitude":106.6369569215262
 	},
 	{
 		"name":"Customer 29",
-		"latitude":-6.223980683828258,
-		"longitude":106.65145843480897
+		"latitude":-6.283293498294853,
+		"longitude":106.66841458913271
 	},
 	{
 		"name":"Customer 30",
-		"latitude":-6.230960204261416,
-		"longitude":106.62749450553858
+		"latitude":-6.301757722300435,
+		"longitude":106.6630103598189
 	},
 	{
 		"name":"Customer 31",
-		"latitude":-6.25944899404309,
-		"longitude":106.62246482666998
+		"latitude":-6.300160251407797,
+		"longitude":106.6589258921273
 	},
 	{
 		"name":"Customer 32",
-		"latitude":-6.263023848594723,
-		"longitude":106.61955516423515
+		"latitude":-6.301532711607156,
+		"longitude":106.63992565977672
 	},
 	{
 		"name":"Customer 33",
-		"latitude":-6.272374663471266,
-		"longitude":106.64267795118687
+		"latitude":-6.289825626594423,
+		"longitude":106.62231044957176
 	},
 	{
 		"name":"Customer 34",
-		"latitude":-6.277135324137107,
-		"longitude":106.6645476121823
+		"latitude":-6.30352555888653,
+		"longitude":106.64701226120607
 	},
 	{
 		"name":"Customer 35",
@@ -201,13 +201,13 @@
 	},
 	{
 		"name":"Customer 41",
-		"latitude":-6.2198978869970025,
-		"longitude":106.62317292166422
+		"latitude":-6.304869470620766,
+		"longitude":106.62062119403942
 	},
 	{
 		"name":"Customer 42",
-		"latitude":-6.220870596863935,
-		"longitude":106.6156713173959
+		"latitude":-6.323064007015138,
+		"longitude":106.67880615570374
 	},
 	{
 		"name":"Customer 43",
@@ -241,8 +241,8 @@
 	},
 	{
 		"name":"Customer 49",
-		"latitude":-6.27792186250039,
-		"longitude":106.63206661253885
+		"latitude":-6.324759,
+		"longitude":106.664359
 	},
 	{
 		"name":"Customer 50",
@@ -250,3 +250,7 @@
 		"longitude":106.62653053313211
 	}
 ]
+
+
+//-6.27792186250039,
+//106.63206661253885
